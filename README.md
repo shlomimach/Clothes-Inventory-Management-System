@@ -19,12 +19,12 @@ This project is a simple inventory management system for a clothing store built 
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+   `` `bash
    git clone https://github.com/your-username/clothes-inventory-management.git
    cd clothes-inventory-management
 
 Install dependencies:
-npm install
+npm install express cors jsonfile
 
 Run the server:
 node ServerExpress.js

@@ -1,0 +1,31 @@
+{
+  "Products": [
+    {
+      "ProductId": 1,
+      "Description": "Socks",
+      "Count": 75,
+      "Gender": "Male",
+      "Price": 1,
+      "Size": "new born-3",
+      "Type": "Children"
+    },
+    {
+      "ProductId": 3,
+      "Description": "Underwear",
+      "Count": 12,
+      "Type": "Cotton",
+      "Gender": "Male",
+      "Size": "s-xxxl",
+      "Price": 12
+    },
+    {
+      "ProductId": 4,
+      "Description": "Socks",
+      "Count": 5,
+      "Type": "Casual",
+      "Gender": "Female",
+      "Size": "s,m,l",
+      "Price": 1.25
+    }
+  ]
+}
